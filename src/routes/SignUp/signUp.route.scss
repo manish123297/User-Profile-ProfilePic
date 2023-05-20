@@ -1,0 +1,40 @@
+.form-register{
+    background-color: #adb5bd66;
+    padding: 50px;
+    margin: 60px;
+
+    .row{
+        margin-top: 30px;
+        margin-bottom: 10px;
+
+        input{
+          padding:20px
+
+        }
+    }
+
+    button{
+        background-image:linear-gradient(to  right, #00695c, #c34a4a);
+        padding: 10px;
+        width: 180px;
+        color: azure;
+        margin-top: 20px;
+    }
+}
+
+.swal-button-container{
+
+    .swal-button{
+        background-image:linear-gradient(to bottom right, #00695c, #c34a4a);
+        color: #fff;
+        border: none;
+        box-shadow: none;
+        border-radius: 5px;
+        font-weight: 600;
+    font-size: 14px;
+    padding: 10px 24px;
+    margin: 0;
+    cursor: pointer;
+}
+
+}

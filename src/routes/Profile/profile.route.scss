@@ -1,0 +1,32 @@
+.profile-container{
+
+
+    background-color: #adb5bd66;
+    margin: 60px;
+    padding: 50px;
+
+   .col{
+    padding: 30px;
+    background-color: #00695c;
+    img{
+        height:350px;
+        width: 250px;
+        box-shadow: 0 0 10px 10px #dc35458a;
+        
+    }
+    button{
+        background-image:linear-gradient(to bottom right, #70aaa3, #c34a4a);
+        padding:10px;
+        color: whitesmoke;
+           
+        margin-top: 15px;
+    }
+   }
+   .profile-data{
+    margin-top: 53px;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+   }
+   
+}
